@@ -1,6 +1,5 @@
 # login_ui
-
-A new Flutter project.
+Simple Login UI
 
 ## Getting Started
 
